@@ -9,6 +9,6 @@ A Python script for generating random passwords of a specified length. This pass
 
 ## Usage
 
-1. Run the script: `python password_generator.py`
+1. Run the script: `PasswordGenerator.py`
 2. Enter the desired password length when prompted.
 3. The script will generate a random password and display it on the screen.
